@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="jUnit4">
+    <CLASSES>
+      <root url="file://D:/vikvik/jUnit4" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://D:/vikvik/jUnit4" recursive="false" />
+  </library>
+</component>
