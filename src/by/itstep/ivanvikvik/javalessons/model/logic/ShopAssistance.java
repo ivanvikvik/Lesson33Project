@@ -11,7 +11,7 @@ public class ShopAssistance {
 
         double total = 0;
 
-        for (Product product : basket.getProducts()) {
+        for (Product product : basket) {
             total += product.getPrice();
         }
 
